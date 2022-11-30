@@ -1,2 +1,2 @@
 # The Robot
-Desenvolvendo com React-Native.
+Developing with React Native.
