@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "therobot",
+    "slug": "therobot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
